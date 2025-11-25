@@ -26,9 +26,19 @@ To write a Python function that takes a long string and a specified width, and r
 
 
 ## 🧪 Program
-Add Code Here
-
+```
+n=int(input())
+for i in range(1, n+1):
+    print('* ' * i)
+for i in range(n-1, 0, -1):
+    print('* ' * i)
+```
+ 
 ## Sample Output
 
+<img width="1187" height="395" alt="image" src="https://github.com/user-attachments/assets/566fa0fb-575e-4613-af22-3eab0f819070" />
+
+
 ## Result
+Thus, the python program was successfully executed.
 
